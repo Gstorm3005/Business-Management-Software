@@ -18,14 +18,21 @@ This project is a comprehensive system designed to streamline various aspects of
 
 To get started with the Business Management System, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine:
 git clone https://github.com/your_username/business-management-system.git
 
-2. Compile the Source Code:
+3. Compile the Source Code:
 g++ main.cpp -o bms
 
-3. Run the Executable:
+4. Run the Executable:
 ./bms
 
-4. Follow On-screen Instructions:
+5. Follow On-screen Instructions:
 Once the program is running, follow the on-screen instructions to navigate through different functionalities and manage your business effectively.
+
+## Contributors 🧑‍💻
+Meet the minds behind this project:
+- Mohammed Reda Guellati
+- Elrayan Hamhami
+
+Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊🚀
