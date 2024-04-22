@@ -21,11 +21,14 @@ To get started with the Business Management System, follow these steps:
 1. Clone the repository to your local machine.
 git clone https://github.com/your_username/business-management-system.git
 
-3. Compile the source code using your preferred C++ compiler.
+2. Compile the Source Code:
+g++ main.cpp -o bms
 
-3. Run the executable file to launch the Business Management System.
+3. Run the Executable:
+./bms
 
-4. Explore the various functionalities and start managing your business more effectively!
+4. Follow On-screen Instructions:
+Once the program is running, follow the on-screen instructions to navigate through different functionalities and manage your business effectively.
 
 ## Contributing
 
@@ -35,11 +38,3 @@ Contributions to the Business Management System project are welcome! Whether you
 2. Commit your changes (`git commit -am 'Add some awesome feature'`).
 3. Push to your branch (`git push origin feature/awesome-feature`).
 4. Open a pull request and describe your changes in detail.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback regarding the Business Management System, feel free to contact us at [business.management@example.com](mailto:business.management@example.com).
