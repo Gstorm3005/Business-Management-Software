@@ -29,12 +29,3 @@ g++ main.cpp -o bms
 
 4. Follow On-screen Instructions:
 Once the program is running, follow the on-screen instructions to navigate through different functionalities and manage your business effectively.
-
-## Contributing
-
-Contributions to the Business Management System project are welcome! Whether you're interested in adding new features, fixing bugs, or improving documentation, your contributions help make this project better for everyone. To contribute:
-
-1. Fork the repository and create your branch (`git checkout -b feature/awesome-feature`).
-2. Commit your changes (`git commit -am 'Add some awesome feature'`).
-3. Push to your branch (`git push origin feature/awesome-feature`).
-4. Open a pull request and describe your changes in detail.
