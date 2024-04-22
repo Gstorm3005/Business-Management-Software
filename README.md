@@ -2,7 +2,7 @@
 
 This project is a comprehensive system designed to streamline various aspects of business operations, empowering organizations to efficiently manage their resources and enhance productivity. Built using C++, the Business Management System (BMS) encompasses functionalities ranging from order handling to performance analysis.
 
-## Features
+## Features 💼
 
 - **Order Management:** Simplify the process of managing orders, including order creation, tracking, and fulfillment.
 
@@ -14,7 +14,13 @@ This project is a comprehensive system designed to streamline various aspects of
 
 - **Performance Analysis:** Utilize powerful statistical tools to analyze business performance, identify trends, and make data-driven decisions.
 
-## Getting Started
+## Skills Demonstrated 💡
+
+- SQL
+- Object Oriented Programming (OOP)
+- C++/CLI (.NET)
+
+## Getting Started 🚀
 
 To get started with the Business Management System, follow these steps:
 
@@ -35,4 +41,4 @@ Meet the minds behind this project:
 - Mohammed Reda Guellati
 - Elrayan Hamhami
 
-Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊🚀
+Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊
