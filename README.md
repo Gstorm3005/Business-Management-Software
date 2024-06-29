@@ -38,7 +38,7 @@ Once the program is running, follow the on-screen instructions to navigate throu
 
 ## Contributors 🧑‍💻
 Meet the minds behind this project:
-- Mohammed Reda Guellati
+- Nadir Zamouche
 - Elrayan Hamhami
 
 Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊
